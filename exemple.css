@@ -1,0 +1,19 @@
+*{
+    font-family: Verdana;
+}
+nav{
+    background-color: white;
+}
+header,footer,section,article{
+    background-color: white;
+    border: 1px gray solid;
+    margin: 5px;
+    padding: 8px;
+}
+header,footer{
+    background-color: #444;
+    color: white;
+}
+section{
+    background-color: #ddd;
+}
